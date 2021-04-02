@@ -9,3 +9,15 @@
 .copyright {
     background-color: #e9ecef !important;
 }
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+#religionTable li {
+    margin-bottom: 5px;
+}
