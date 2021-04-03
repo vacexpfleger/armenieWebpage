@@ -1,9 +1,5 @@
-$(function() {
-    $('body').hide();
-});
-
 $(document).ready(function(){
-    $('body').fadeIn(1000);
+    $('body').fadeIn(1500);
 });
 
 $(function() {
@@ -16,10 +12,10 @@ $(function() {
     $('#annihilation').click(function() {
         let i;
         for(i = 0; i < 20; i++){
-            $('body').hide(20);
-            $('body').show(27);
+            var milSec = Math.floor(Math.random() * 100) + 10;
+            $('body').hide(milSec);
+            $('body').show(milSec);
         }
-        $('body').fadeOut(100);
     });
 });
 
