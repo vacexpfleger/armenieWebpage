@@ -1,4 +1,5 @@
 ## Checklist
 - [X] Create a basic template
-- [ ] Add the info
-- [ ] Make it look nice
+- [X] Add the info
+- [X] Make it look nice
+- [ ] Add jQuery
