@@ -52,7 +52,7 @@ function personCard(person) {
         <h4 class="lead">${hero.birth} – ${hero.death}</h4>`);
     }
 
-    $(".person-img").html(`<img class="img-fluid" src="img/${hero.photo}" alt="${hero.name}">`);
+    $(".person-img").html(`<img class="img-fluid d-block mx-auto" src="img/${hero.photo}" alt="${hero.name}">`);
     $(".person-bio").html(`<p class=" p-2">${hero.bio}</p>`)
     console.log(hero.name);
 }
