@@ -30,6 +30,7 @@
 	{
 		"name":"Serj Tankian",
 		"birth":"1967",
+        "death": false,
 		"bio":"Serj Tankian je arménsko-americký zpěvák, skladatel, básník, aktivista a multiinstrumentalista. Je znám především jako zpěvák metalové skupiny System of a Down. V roce 2002 společně s Tomem Morellem spoluzaložili neziskovou sociálně-politickou organizaci Axis of Justice (česky Osa spravedlnosti).",
 		"photo":"tankian.jpg"
 	}
